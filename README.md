@@ -7,7 +7,7 @@ Using high-density genetic anchor (4.4M) to evaluate de novo genome assembly of 
 
 Nearly 5,000 genetic anchors are used to validate the quality of a 10Mb scaffold from de novo genome assembly 
 
-![validation](https://lh6.googleusercontent.com/0j4zLn9wyRunueFlimySW04jbAa0ggXL_J1BlNR3IQJ_pV8__vIlH6lI7EuyqZy3DZueaSpk8qZjQ5o=w1920-h950-rw)
+![validation](https://lh3.googleusercontent.com/TtIUUPGGG3gW-fh2Lfxo7eVjkF8fTIyZC6zI_yYvTFmDpnKjiwkF3xGIFk8JwmqIHB3So70Bkzz3QFQ=w1440-h725-rw)
 
 ## Prerequisites
 
